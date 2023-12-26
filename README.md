@@ -38,10 +38,10 @@ The features were standardize by removing the mean and scaling to unit variance.
 - Support: These values is regarding how many patients belonged to each class in the test dataset. Among the patientis in the test dataset, 127 did not get diabetes and 65 did get diabetes.
 
 ## Confusion Matrix
-TN: 118 patients without diabetes were correctly predicted as no diabetics
-FP: 9 patients without diabetes were incorrectly predicted as diabetics
-FN: 34 patients with diabetes were incorrectly predicted as no diabetics
-TP: 31 patients with diabetes were correctly predicted as diabetics
+- TN: 118 patients without diabetes were correctly predicted as no diabetics
+- FP: 9 patients without diabetes were incorrectly predicted as diabetics
+- FN: 34 patients with diabetes were incorrectly predicted as no diabetics
+- TP: 31 patients with diabetes were correctly predicted as diabetics
 
 ## Result
 The choice of metrics depends on the business objective.
